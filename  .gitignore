@@ -1,3 +1,22 @@
-
 .gitignore
 
+.idea/
+
+.idea/.gitignore
+
+.idea/Pract_1.iml
+
+.idea/inspectionProfiles/profiles_settings.xml
+
+
+.idea/modules.xml
+
+.idea/vcs.xml
+
+
+
+pract_1/Butyrin_Artem_1.docx
+
+pract_1/how_to_add_a_local_project_to_a_remote_github_repository.pdf
+
+pract_1/pract_work_1.pdf
