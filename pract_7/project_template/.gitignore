@@ -3,7 +3,10 @@
 .idea
 
 data/
+data/sample.csv
+data/sample.txt
 
 app/__pycache__/
-
 app/io/__pycache__/
+__pycache__/
+tests/test_io/__pycache__/
