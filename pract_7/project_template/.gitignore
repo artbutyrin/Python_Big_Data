@@ -1,3 +1,9 @@
 .venv
 
 .idea
+
+data/
+
+app/__pycache__/
+
+app/io/__pycache__/
