@@ -1,5 +1,3 @@
-.gitignore
-
 .idea/
 
 .idea/.gitignore
@@ -13,6 +11,10 @@
 
 .idea/vcs.xml
 
+pract_7/.idea/inspectionProfiles/profiles_settings.xml
+pract_7/.idea/pract_7.iml
+pract_7/project_template/data/sample.csv
+pract_7/project_template/data/sample.txt
 
 
 pract_1/Butyrin_Artem_1.docx
