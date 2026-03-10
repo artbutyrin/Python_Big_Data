@@ -26,7 +26,6 @@ def test_read_from_file_not_found():
         read_from_file("nonexistent_file.txt")
 
 
-# Tests for read_from_file_pandas
 def test_read_from_file_pandas_returns_dataframe(tmp_path):
 
     import pandas as pd
