@@ -1,4 +1,16 @@
 .idea/
+.idea
+
+LectPY/.obsidian/
+LectPY/.obsidian/workspace.json
+LectPY/.obsidian/core-plugins.json
+LectPY/.obsidian/app.json
+LectPY/.obsidian/app.asar
+LectPY/.obsidian/app.asar.unpacked
+LectPY/.obsidian/app.asar.unpacked/
+LectPY/.obsidian/app.asar.unpacked/resources/
+LectPY/.obsidian/app.asar.unpacked/resources/app.asar
+LectPY/.obsidian/app.asar.unpacked/resources/app.asar.unpacked
 
 .idea/.gitignore
 
